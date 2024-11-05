@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehatieru.github.io/PEr/sitemap_index.txt
+Sitemap: https://ehatieru.github.io/dWu/sitemap_index.txt
+Sitemap: https://ehatieru.github.io/oCv/sitemap_index.txt
+Sitemap: https://ehatieru.github.io/vCr/sitemap_index.txt
